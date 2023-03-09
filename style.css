@@ -43,6 +43,7 @@ body{
     width: 120px;
     height: 120px;
     bottom: -20px;
+    right: -20px;
     background: linear-gradient(#d64612, #e48307);
     animation-name: move-down;
 }
